@@ -3,7 +3,7 @@ Ecommerce Application which I built during the Internship during Gowri Software 
 
 # Screenshots of the App
 
-<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/88485343/205229328-790529cc-1556-41d4-a8c2-228192ac7dd8.jpg)" align="left" height="48" width="48" ></a>
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/88485343/205229328-790529cc-1556-41d4-a8c2-228192ac7dd8.jpg)" align="left" height="250" width="250" ></a>
 
 
 ![Screenshot_2022-12-02-11-51-50-34_f35130f1450cba487dcdf44e4936a7fe](https://user-images.githubusercontent.com/88485343/205229363-4ac75a51-8467-40c3-9a67-f98bb6e69873.jpg= 250x250)
