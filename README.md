@@ -9,7 +9,7 @@ Ecommerce Application which I built during the Internship during Gowri Software 
 This App has features like Search bar, Categories, Add to Cart, and Check Out System.
 Where this is the frontend part which was developed in Java.
 
-###### Backend of the App
+# Backend of the App
 
   ScreenShot of the Dashboard.
   
@@ -18,33 +18,6 @@ Where this is the frontend part which was developed in Java.
 
 ![IMG_20221202_121931](https://user-images.githubusercontent.com/88485343/205233447-75aab65a-dd75-4341-8ece-d4beca0e06aa.jpg)
 
-###### All Done.
+Backend was made in PHP where admin can add Product Images, cost, additional products and many more.
 
-# How to connect your panel with app
 
-###### Step 1: In your android studio open Constants.java
-
-###### Step 2: Change BASE_URL with your URL
-
-# Used Libraries
-
-Material Search Bar:
-https://github.com/mancj/MaterialSearchBar
-
-Rounded Image View:
-https://github.com/vinc3m1/RoundedImageView
-
-Carousel:
-https://github.com/ImaginativeShohag/Why-Not-Image-Carousel
-
-Android Volley:
-https://google.github.io/volley
-
-Tiny Cart:
-https://github.com/hishd/TinyCart
-
-Advanced Webview:
-https://github.com/delight-im/Android-AdvancedWebView
-
-# Free SVG Icons
-https://www.svgrepo.com
