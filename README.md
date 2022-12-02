@@ -18,6 +18,6 @@ Where this is the frontend part which was developed in Java.
 
 ![IMG_20221202_121931](https://user-images.githubusercontent.com/88485343/205233447-75aab65a-dd75-4341-8ece-d4beca0e06aa.jpg)
 
-Backend was made in PHP where admin can add Product Images, cost, additional products and many more.
+Backend was made in PHP where admin can add Product Images, cost, additional products, get Prodcut details and many more.
 
 
